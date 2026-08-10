@@ -1,79 +1,60 @@
-# DHV Power BI Analytics Dashboard
+# 📊 Dashboard Preview
 
-## Project Overview
+## 1. Executive Overview Dashboard
 
-This project focuses on analyzing DHV business data using Microsoft Power BI to uncover meaningful insights, identify trends, and support data-driven decision-making.
+The Executive Overview dashboard provides a high-level summary of climate and agricultural performance using important KPIs.
 
-The dashboard includes interactive visualizations, KPI tracking, and business performance analysis.
+### Key Metrics:
+- Total Extreme Weather Events
+- Average Crop Yield
+- Average Temperature
+- Average Irrigation Access
 
----
+### Insights:
+- Temperature changes influence crop productivity.
+- Irrigation availability helps maintain stable yields.
+- Extreme weather events create agricultural risks.
 
-## Tools Used
+![Executive Overview](Screenshots/Executive%20Overview.png)
 
-- Microsoft Power BI
-- Power Query
-- DAX
-- Excel
-- Data Visualization Techniques
-
----
-
-## Project Objectives
-
-- Clean and transform raw data using Power Query
-- Create meaningful business KPIs
-- Analyze trends and patterns
-- Build interactive dashboards
-- Generate actionable insights
 
 ---
 
-## Dashboard Features
+## 2. Deep Dive Analysis Dashboard
 
-### 1. Data Overview
-- Dataset summary
-- Key metrics
-- Data distribution
+The Deep Dive Analysis dashboard provides detailed analysis of relationships between climate factors and crop production.
 
-### 2. Business Analysis Dashboard
-- Performance tracking
-- Trend analysis
-- Category-wise comparison
+### Analysis Includes:
+- Crop Yield vs Temperature Trends
+- Crop Yield and Irrigation Access by Country
+- Temperature and CO₂ Impact Analysis
+- Regional CO₂ Emissions
+- Extreme Weather Events Analysis
+- Year-wise Crop Yield Growth
 
-### 3. Insights
+### Insights:
+- Regions with higher temperature variation show unstable crop productivity.
+- Better irrigation access improves agricultural stability.
+- Climate conditions impact crop yield patterns.
 
-- Identified important patterns
-- Highlighted areas for improvement
-- Supported decision-making using analytics
+![Deep Dive Analysis](Screenshots/Deep%20Dive%20Analysis.png)
 
----
-
-## Skills Demonstrated
-
-- Data Cleaning
-- Exploratory Data Analysis
-- Power BI Dashboard Development
-- DAX Calculations
-- Business Intelligence
-- Data Storytelling
 
 ---
 
-## Dashboard Preview
+## 3. Country Insights Dashboard
 
-(Add dashboard screenshots here)
+The Country Insights dashboard focuses on geographical and crop-level comparison.
 
----
+### Features:
+- Global crop yield comparison
+- Region-wise agricultural analysis
+- Crop type distribution
+- Temperature trends
+- CO₂ emission analysis
+- Interactive filters for:
+  - Year
+  - Region
+  - Crop Type
 
-## Author
-
-Vedansh Tiwari
-
-B.Tech Artificial Intelligence & Data Science  
-SVKM NMIMS Indore
-
-LinkedIn:
-https://www.linkedin.com/in/vedansh-tiwari-79056a283/
-
-GitHub:
-https://github.com/Vedansh2705
+![Country Insights](Screenshots/Country%20insights.png)
